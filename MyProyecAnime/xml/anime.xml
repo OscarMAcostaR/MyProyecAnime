@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animes>
+	<Opciones>
+		<Opcion Url="/WebForm1.aspx?Id=0" Texto="Principal" Id="0"></Opcion>
+		<Opcion Url="/WebForm1.aspx?Id=1" Texto="Informacion" Id="1"></Opcion>
+		<Opcion Url="/WebForm1.aspx?Id=2" Texto="PlayRoom" Id="2"></Opcion>
+	</Opciones>
+
+	
+	<Tipo>
+		<Anime>
+			<Titulo>Naruto</Titulo>
+			<Año>2002</Año>
+			<Imagen>img\lista\naruto.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Dragon Ball</Titulo>
+			<Año>1986</Año>
+			<Imagen>img\lista\dragonboll.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>My Hero Academia</Titulo>
+			<Año>2016</Año>
+			<Imagen>img\blog\blog-1.jpg</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Attack on Titan</Titulo>
+			<Año>2013</Año>
+			<Imagen>img\recent\recent-1.jpg</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Tokyo Ghoul</Titulo>
+			<Año>2014</Año>
+			<Imagen>img\lista\tokio.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Demon Slayer</Titulo>
+			<Año>2019</Año>
+			<Imagen>img\blog\blog-1.jpg</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Bleach</Titulo>
+			<Año>2004</Año>
+			<Imagen>img\lista\bleach.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>One Piece</Titulo>
+			<Año>1999</Año>
+			<Imagen>img\lista\onepiece.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Fullmetal Alchemist</Titulo>
+			<Año>2003</Año>
+			<Imagen>img\lista\fullmetal.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Sword Art Online</Titulo>
+			<Año>2012</Año>
+			<Imagen>img\lista\sword.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Death Note</Titulo>
+			<Año>2006</Año>
+			<Imagen>img\lista\deathnote.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Fairy Tail</Titulo>
+			<Año>2009</Año>
+			<Imagen>img\lista\fairy.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Neon Genesis Evangelion</Titulo>
+			<Año>1995</Año>
+			<Imagen>img\lista\neon.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Fruits Basket</Titulo>
+			<Año>2001</Año>
+			<Imagen>img\lista\Fruits.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Your Name</Titulo>
+			<Año>2016</Año>
+			<Imagen>img\lista\youname.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Clannad</Titulo>
+			<Año>2007</Año>
+			<Imagen>img\lista\clannad.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Kimi no Na wa</Titulo>
+			<Año>2016</Año>
+			<Imagen>img\lista\kimi.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Nisekoi</Titulo>
+			<Año>2014</Año>
+			<Imagen>img\lista\nisekoi.PNG</Imagen>
+		</Anime>
+		<Anime>
+			<Titulo>Haruhi Suzumiya</Titulo>
+			<Año>2006</Año>
+			<Imagen>img\lista\haruhi.PNG</Imagen>
+		</Anime>
+	</Tipo>
+
+	
+	<Datos>
+		<NombreRestaurant>Allstar Anime</NombreRestaurant>
+		<Descripcion>Bienvenidos a anime para todos</Descripcion>
+		<Direccion>Progreso de Obregon Hidalgo CP.42730</Direccion>
+		<Telefono>*721284***</Telefono>
+		<correo>oscar_allstar@gmail.com</correo>
+		<Imagen>/img/img1.jpg</Imagen>
+	</Datos>
+</Animes>
